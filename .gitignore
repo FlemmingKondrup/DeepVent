@@ -1,0 +1,12 @@
+*.npz
+**/__pycache__/
+encoder
+*.csv
+*.zip
+data/
+.gitignore
+venv
+DeepVent.egg-info
+env
+test.py
+*.DS_Store

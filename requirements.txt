@@ -1,0 +1,6 @@
+pandas==1.3.5
+fancyimpute==0.7.0
+pyprind==2.11.3
+d3rlpy==1.0.0
+matplotlib==3.5.1
+scipy==1.7.3
