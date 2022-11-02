@@ -4,5 +4,6 @@ setup(name='DeepVent',
       version='1.0',
       description='Deep Vent paper repository',
       author='Thomas Jiralerspong',
-      author_email='thomasjiralerspong@gmail.com'
+      author_email='thomasjiralerspong@gmail.com',
+      py_modules=[]
      )
