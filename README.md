@@ -1,5 +1,7 @@
 # DeepVent
 
+Official code for "Towards Safe Mechanical Ventilation Treatment Using Deep Offline Reinforcement Learning" https://arxiv.org/abs/2210.02552
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -102,3 +104,24 @@ python3 grouped_action_bar_plot.py
 python3 make_u_curves.py
 python3 compare_ood_id.py
 ```
+
+## Citation
+@misc{https://doi.org/10.48550/arxiv.2210.02552,
+
+  doi = {10.48550/ARXIV.2210.02552},
+  
+  url = {https://arxiv.org/abs/2210.02552},
+  
+  author = {Kondrup, Flemming and Jiralerspong, Thomas and Lau, Elaine and de Lara, Nathan and Shkrob, Jacob and Tran, My Duc and Precup, Doina and Basu, Sumana},
+  
+  keywords = {Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Towards Safe Mechanical Ventilation Treatment Using Deep Offline Reinforcement Learning},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {arXiv.org perpetual, non-exclusive license}
+  
+}
